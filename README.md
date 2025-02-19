@@ -1,9 +1,9 @@
 # Hello! I'm Tyler
 I am a recent computer science graduate and aspiring software engineer.
 
-- I graduated from North Carolina State University
-- I am working on The Odin Project curriculum currently
-- View my portfolio [here]()
+- Graduated from North Carolina State University
+- Working on The Odin Project web development curriculum
+- View my portfolio [here](https://tylersemel.github.io/)
 - Contact me at [tylersemel@gmail.com](mailto:tylersemel@gmail.com)
 
 ## Skills
