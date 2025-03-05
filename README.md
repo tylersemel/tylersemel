@@ -1,20 +1,15 @@
-# Hello! I'm Tyler
-I am a recent computer science graduate and aspiring software engineer.
+# 👋 Hello, I'm Tyler!
+I'm a recent Computer Science graduate from NC State University and an aspiring Software Engineer passionate about creating fun and innovative projects.
 
-- Graduated from North Carolina State University
-- Working on The Odin Project web development curriculum
-- View my portfolio [here](https://tylersemel.github.io/)
-- Contact me at [tylersemel@gmail.com](mailto:tylersemel@gmail.com)
+🚀 Currently working through The Odin Project to expand my full-stack web development skills.  
+💡 Interested in full-stack development, backend engineering, and game development.
 
-## Skills
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-</p>
+🔗 **[Check out my portfolio](https://tylersemel.github.io/)**  
+📫 **Reach me at:** tylersemel@gmail.com  
+
+## 🛠️ Technical Skills
+- **Languages:** JavaScript, Java, Python, C, C++, SQL  
+- **Web Development:** HTML, CSS, Node.js, Webpack
+- **Backend & Databases:** Spring Boot, MySQL, REST APIs  
+- **Tools & Platforms:** Git, Linux, Jenkins, VS Code  
+
