@@ -8,7 +8,7 @@ I'm a recent Computer Science graduate from NC State University and an aspiring 
 📫 **Reach me at:** tylersemel@gmail.com  
 
 ## 🛠️ Technical Skills
-- **Languages:** JavaScript, Java, Python, C, C++, SQL  
+- **Languages:** JavaScript, Java, C, C++ 
 - **Web Development:** HTML, CSS, Node.js, Webpack
 - **Backend:** Spring Boot, MySQL, REST APIs  
 - **Tools:** Git, Linux, Jenkins, VS Code  
