@@ -11,5 +11,5 @@ I'm a recent Computer Science graduate from NC State University and an aspiring 
 - **Languages:** JavaScript, Java, C, C++ 
 - **Web Development:** HTML, CSS, Node.js, Webpack
 - **Backend:** Spring Boot, MySQL, REST APIs  
-- **Tools:** Git, Linux, Jenkins, VS Code  
+- **Tools:** Unreal Engine 5, Git, Linux, Unity  
 
